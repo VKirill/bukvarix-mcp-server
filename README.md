@@ -17,7 +17,7 @@ MCP (Model Context Protocol) сервер для интеграции с API [bu
 
 ```bash
 # Клонировать репозиторий
-git clone https://github.com/yourusername/bukvarix-mcp-server.git
+git clone https://github.com/VKirill/bukvarix-mcp-server.git
 cd bukvarix-mcp-server
 
 # Установить зависимости
